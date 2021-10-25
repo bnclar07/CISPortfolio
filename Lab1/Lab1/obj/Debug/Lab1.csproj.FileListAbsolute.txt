@@ -1,0 +1,6 @@
+J:\CIS 199\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+J:\CIS 199\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+J:\CIS 199\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+J:\CIS 199\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+J:\CIS 199\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+J:\CIS 199\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
